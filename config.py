@@ -81,10 +81,6 @@ Use These Keywords To Setup Custom File Name
 ⪼ ⏳️ Dᴏɴᴇ : {0}%
 ⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ⪼ ⏰️ Eᴛᴀ: {4}
-    
-    HELP_TXT = """<b>Hey</b> {}
-    
-Joine @AshutoshGoswami24 To Help """
 
 
 
