@@ -83,7 +83,7 @@ Use These Keywords To Setup Custom File Name
 ⪼ ⏰️ Eᴛᴀ: {4}
     
     
-    DONATE_TXT = """<b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
+    DONATE_TXT= """<b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
     
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
     
